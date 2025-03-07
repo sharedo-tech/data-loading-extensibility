@@ -1,0 +1,12 @@
+﻿{
+  "SystemName": "DataLoading.Sample",
+  "Name": "DataLoading Sample Plugin",
+  "Description": "DataLoading Sharedo plugin",
+  "Version": "0.0.1",
+  "IconFile": "logo.png",
+  "Files": [
+    "DataLoading.Sample.dll"
+  ],
+  "ContentFolder": "../../_Content",
+  "MigrationsFolder": "../../_Migrations"
+}
